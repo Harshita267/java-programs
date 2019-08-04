@@ -1,0 +1,10 @@
+    class Simple{  
+        public static void main(String args[]){  
+         System.out.println("Hello Java");  
+        }  
+    }  
+    
+    --------------------------------------
+   /* Java is a statically-typed programming language.
+    It means, all variables must be declared before its use. 
+    That is why we need to declare variable's type and name. */
